@@ -1,2 +1,2 @@
 # go-fiber-api
-Go Fiber Api
+Go Fiber Gorm PostgreSql Api
